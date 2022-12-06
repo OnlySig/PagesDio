@@ -27,7 +27,7 @@ const Home = () => {
         <Button title='Começar agora' variant="secundary" onClick={handleClickSignIn}/>
       </div>
       <div>
-        <img src={bannerImage} alt="cachorro" />
+        <img src={bannerImage} alt="cachorroAranha" />
       </div>
     </Container>
     </>
